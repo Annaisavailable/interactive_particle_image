@@ -1,0 +1,7 @@
+{
+  "name": "Particle Architect",
+  "description": "Interactive 3D particle system with TouchDesigner-style aesthetics, noise modulation, and webcam hand-gesture control.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
